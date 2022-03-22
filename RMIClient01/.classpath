@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Career/edu/SLIIT/EclipsePortable/Data/workspace/RMIClient01/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="D:/Career/edu/SLIIT/EclipsePortable/Data/workspace/RMIClient01/lib/cis69mc.jar"/>
+	<classpathentry kind="lib" path="D:/Career/edu/SLIIT/EclipsePortable/Data/workspace/RMIClient01/lib/DS_Desktop_Notify.jar"/>
+	<classpathentry kind="lib" path="D:/Career/edu/SLIIT/EclipsePortable/Data/workspace/RMIClient01/lib/DS_Desktop_Notify-src.jar"/>
+	<classpathentry kind="lib" path="D:/Career/edu/SLIIT/EclipsePortable/Data/workspace/RMIClient01/lib/jcommon-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Career/edu/SLIIT/EclipsePortable/Data/workspace/RMIClient01/lib/jcommon-1.0.14.jar"/>
+	<classpathentry kind="lib" path="D:/Career/edu/SLIIT/EclipsePortable/Data/workspace/RMIClient01/lib/jfreechart-1.0.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
